@@ -1,0 +1,5 @@
+python==3.8.8
+chardet==4.0.0
+csv==1.0
+pandas==1.2.4
+matplotlib==3.3.4
