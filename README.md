@@ -79,7 +79,7 @@ SPring-8のQST専用ビームライン（BL14B1）に設置されているXRD高
 Google Colabでステップ・バイ・ステップで動作を確認しながら進めます．下記のボタンを押して進んでください．
 
 <div align="center">
-  <a href="https://colab.research.google.com/github/inoueshinji8/XRD_SPring-8_BL14B1/blob/main/Training_1.ipynb">
+  <a href="https://colab.research.google.com/github/inoueshinji8/XRD_SPring-8_BL14B1/blob/main/XRD_SPring-8_BL14B1_Training.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </div>
